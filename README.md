@@ -2,6 +2,7 @@
 SuLink sulian速连机场官方地址官网地址</br>
 官方地址：[www.sulink.vip](https://www.sulink.vip/register?invite_code=NvGMRedY)</br>
 ## 邀请码
+`通过邀请码注册可得10G体验`
 ```bash
 NvGMRedY
 ```
