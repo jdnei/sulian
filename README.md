@@ -1,8 +1,11 @@
+🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
+[Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
+
 # SuLink sulian速连机场官方地址(2026年11月3日更新)
 SuLink sulian速连机场官网地址</br>
-~~官方地址：[www.sulink.vip](https://www.sulink.vip/register?invite_code=NvGMRedY)</br>~~
+官方地址：[www.sulink.vip](https://to.iix.im/su01)</br>
 
-本机场暂时失联！价格差不多的，也可以去看看NiceCloud机场：[测评](https://github.com/jdnei/nicecloud)</br>
+本机场失联过！价格差不多的，也可以去看看NiceCloud机场：[测评](https://github.com/jdnei/nicecloud)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
@@ -12,7 +15,7 @@ SuLink sulian速连机场官网地址</br>
 ## 邀请码
 `通过邀请码注册可获得10G体验`
 ```bash
-NvGMRedY
+fesHf3hr
 ```
 ## 简介
 Sulink 速连通过深度优化的全球专线网络，为用户提供低延迟、高带宽的跨国网络接入服务。它旨在解决跨境访问受限问题，广泛适配各种主流代理协议，是追求极致网络体验用户的可靠选择。
