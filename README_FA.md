@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# وب‌سایت رسمی فیلترشکن SuLink (به‌روزرسانی 7 نوامبر 2026)
+# وب‌سایت رسمی فیلترشکن SuLink (به‌روزرسانی 8 نوامبر 2026)
 وب‌سایت رسمی فیلترشکن SuLink<br>
 آدرس رسمی: [www.sulink.vip](https://to.iix.im/su01)<br>
 
