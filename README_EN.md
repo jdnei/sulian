@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# SuLink VPN Official Website (Updated November 13, 2026)
+# SuLink VPN Official Website (Updated November 14, 2026)
 
 SuLink VPN Official Website<br>
 Official Website: [www.sulink.vip](https://to.iix.im/su01)<br>
